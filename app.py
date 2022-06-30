@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 import pickle
 
-sample=pd.read_csv(r'E:\Pro 69\pro\final_data.csv')
+sample=pd.read_csv(r'E:\Pro 69\pro\finaldata.csv')
 
 st.title('Medical Sample Collection')
 
